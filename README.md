@@ -54,7 +54,7 @@ Edit the list (one username per line, e.g., @username), click "Save" (shows "Cha
 
 Supported Countries
 The script supports flagging with emojis for the following 50 countries:
-United States (), Canada (), United Kingdom (), Germany (), France (), Japan (), Australia (), Switzerland (), Netherlands (), Sweden (), Norway (), Denmark (), Finland (), Austria (), Belgium (), Ireland (), Singapore (), New Zealand (), Italy (), Spain (), South Korea (), Israel (), Luxembourg (), Iceland (), Portugal (), Greece (), Czech Republic (), Poland (), Hungary (), Slovakia (), Slovenia (), Estonia (), Latvia (), Lithuania (), Malta (), Cyprus (), United Arab Emirates (), Qatar (), Saudi Arabia (), China (), India (), Russia (), Brazil (), Mexico (), Argentina (), South Africa (), Turkey (), Thailand (), Malaysia ().
+United States, Canada, United Kingdom, Germany, France, Japan, Australia, Switzerland, Netherlands, Sweden, Norway, Denmark, Finland, Austria, Belgium, Ireland, Singapore, New Zealand, Italy, Spain, South Korea, Israel, Luxembourg, Iceland, Portugal, Greece, Czech Republic, Poland, Hungary, Slovakia, Slovenia, Estonia, Latvia, Lithuania, Malta, Cyprus, United Arab Emirates, Qatar, Saudi Arabia, China, India, Russia, Brazil, Mexico, Argentina, South Africa, Turkey, Thailand, Malaysia.
 
 Country flag emojis are standard Unicode representations.
 
