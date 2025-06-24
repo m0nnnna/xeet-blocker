@@ -1,7 +1,7 @@
 # xeet-blocker
 
 A Tampermonkey userscript that allows you to manually mark X (Twitter) accounts with country flags or super block them, with export/import functionality and a blocked accounts editor.
-Description
+
 This script enhances your X timeline by letting you:
 Mark accounts with flags from 50 top countries (e.g.,  for USA,  for Japan).
 

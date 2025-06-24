@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         X Timeline Account Marker
+// @name         Xeet Blocker
 // @namespace    http://tampermonkey.net/
 // @version      2.9
 // @description  Manually mark X accounts with countries or super block them, with export/import and user management editors
